@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.29f4d9fc.css",
+    "main.js": "/mywebsite/static/js/main.d49cc1e9.js",
+    "static/js/415.fc063c41.chunk.js": "/mywebsite/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/mywebsite/static/js/787.f6e65957.chunk.js",
+    "static/media/IMG_8022.jpeg": "/mywebsite/static/media/IMG_8022.8b58856417299a197ef9.jpeg",
+    "static/media/me.jpeg": "/mywebsite/static/media/me.609665376bb8224f9aca.jpeg",
+    "static/media/dhruv.png": "/mywebsite/static/media/dhruv.f5ac01355293aca67721.png",
+    "static/media/Sched.png": "/mywebsite/static/media/Sched.f74c9bd6d1e5822a7269.png",
+    "static/media/Salus.png": "/mywebsite/static/media/Salus.c0e261461b51dbc0db60.png",
+    "static/media/CarboTrack.png": "/mywebsite/static/media/CarboTrack.44bad6b6d506ee2d09b9.png",
+    "static/media/pre.svg": "/mywebsite/static/media/pre.af30bc60b561edd2aef2.svg",
+    "index.html": "/mywebsite/index.html",
+    "main.29f4d9fc.css.map": "/mywebsite/static/css/main.29f4d9fc.css.map",
+    "main.d49cc1e9.js.map": "/mywebsite/static/js/main.d49cc1e9.js.map",
+    "415.fc063c41.chunk.js.map": "/mywebsite/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/mywebsite/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f4d9fc.css",
+    "static/js/main.d49cc1e9.js"
+  ]
+}
